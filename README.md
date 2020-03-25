@@ -8,4 +8,5 @@ Exercises solved in [**labpopAlgoGen.pdf**](https://github.com/adrianodemarino/E
 
 # Certificates
 1. Genetic Algo --> [**Genetic_algo**](https://github.com/adrianodemarino/ExamsPhDComputerScience/blob/master/certificate/certificate_lavpopAlgoGen.pdf)
-2. Summer School --> [**Summer_school**](https://github.com/adrianodemarino/ExamsPhDComputerScience/blob/master/certificate/certificate_antoniotti_summer_school.pdf)
+2. Summer School --> [**Summer_school Como**](https://github.com/adrianodemarino/ExamsPhDComputerScience/blob/master/certificate/certificate_antoniotti_summer_school.pdf)
+3. Summer School2 --> [**Summer_school Naples**](https://github.com/adrianodemarino/ExamsPhDComputerScience/blob/master/certificate/CertificateMarinoSC.pdf)
